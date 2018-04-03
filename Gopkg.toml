@@ -51,7 +51,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/qiangxue/golang-restful-starter-kit"
+  name = "github.com/ksuttonPhiz/golang-restful-starter-kit"
 
 [[constraint]]
   name = "github.com/spf13/viper"

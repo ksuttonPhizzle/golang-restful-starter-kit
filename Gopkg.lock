@@ -108,7 +108,7 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/qiangxue/golang-restful-starter-kit"
+  name = "github.com/ksuttonPhiz/golang-restful-starter-kit"
   packages = [
     "apis",
     "app",
